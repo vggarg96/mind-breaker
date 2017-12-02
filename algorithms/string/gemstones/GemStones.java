@@ -6,7 +6,7 @@ public class GemStones {
 	public static void main(String args[]) {
 		Scanner in = new Scanner(System.in);
 		int n = in.nextInt();
-		int c = 0;
+		int c = 0;	
 		int a[] = new int[26];
 		for (int i = 0; i < n; i++) {
 			String s = in.next();
