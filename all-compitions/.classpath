@@ -5,5 +5,9 @@
 	<classpathentry kind="src" path="30-days-of-code"/>
 	<classpathentry kind="src" path="week-of-code"/>
 	<classpathentry kind="src" path="101-hack"/>
+	<classpathentry kind="src" path="hourrank"/>
+	<classpathentry kind="src" path="rookierank"/>
+	<classpathentry kind="src" path="university codesprint"/>
+	<classpathentry kind="src" path="ctci"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
